@@ -1,4 +1,4 @@
-## Skeleton for a back-end app in NodeJS with TypeScript, Knex (used for: Query Builder, Migrations and Seeds), path resolution and routes
+## Skeleton for a back-end app in NodeJS with TypeScript, Knex (used for: Query Builder, Migrations and Seeds), path resolution and routing
 
 ### Suggested patterns
 - MVC (Model - View - Controller)
